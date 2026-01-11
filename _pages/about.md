@@ -22,17 +22,12 @@ redirect_from:
 I am Wenxia Wang (王文霞), a PhD candidate in Nursing at the School of Nursing, Peking University, under the supervision of Prof. Zhiwen Wang. My research focuses on leveraging technology to improve elderly care and healthcare outcomes.
 
 My research interests include:
-- **Multimodal Data Analysis**: Utilizing multimodal data to recognize and respond to emotional states of the elderly
-- **Fall Prevention Technologies**: Translational research in new technologies for fall prevention in disabled elderly
+- **Affective Computering**: Utilizing multimodal data to recognize and respond to emotional states of the elderly
 - **Intelligent Healthcare Systems**: Development of intelligent recommendation systems for the care of older adults with dementia
 - **Chronic Disease Prevention**: Prevention and intervention models for chronic diseases in elderly populations
 
 I have published several papers in high-impact nursing and medical journals, including *Journal of Clinical Nursing* (Q1), *Journal of Medical Internet Research* (Q1), and *International Journal of Nursing Studies* (Q1).
 
-# 🔥 News
-- *2025.01*: &nbsp;🎉🎉 Our paper on voice biomarkers in frailty was published in *Journal of Voice*!
-- *2025.01*: &nbsp;🎉🎉 Our systematic review on dementia caregiver interventions was published in *International Journal of Nursing Studies* (IF=7.1)!
-- *2024.12*: &nbsp;🎉🎉 Our paper on dual game of family responsibilities and health behaviors was accepted by *Advances in Nursing Science*!
 
 # 📝 Publications 
 
@@ -85,29 +80,41 @@ I have published several papers in high-impact nursing and medical journals, inc
 - *2021* The Third-Class Scholarship of Jilin University
 
 # 📖 Education
-- *Sep 2023 - Jul 2027 (Expected)*, **PhD in Nursing**, School of Nursing, Peking University, Beijing, China
-  - Supervisor: Prof. Zhiwen Wang
-  - GPA: 3.23/4.0
-  - Main courses: Scale development and metrological characteristic assessment (A); The Development Foundation and Theoretical Construction of Nursing (A-), etc.
 
-- *Sep 2020 - Jul 2023*, **Master of Medicine (Nursing)**, School of Nursing, Jilin University, Jilin, China
-  - Supervisor: Prof. Jiao Sun
-  - GPA: 3.78/4.0
-  - Main courses: Scientific ethics and academic norms (95/100); Medical statistics (92/100); Advanced Health Assessment (92/100); Evidence-based nursing (90/100), etc.
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+  <img src="images/universities/pku-logo.svg" alt="Peking University" style="width: 60px; height: 60px; margin-right: 15px; object-fit: contain; flex-shrink: 0;">
+  <div>
+    <strong>PhD in Nursing</strong><br>
+    <em>Sep 2023 - Jul 2027 (Expected)</em><br>
+    School of Nursing, Peking University, Beijing, China<br>
+    • Supervisor: Prof. Zhiwen Wang
+  </div>
+</div>
 
-- *Sep 2016 - Jul 2020*, **Bachelor of Nursing**, School of Nursing, Jilin University, Jilin, China
-  - GPA: 3.0/4.0
-  - Main courses: Anatomy; Pathology; Physiology; Medical Advanced Mathematics; Nursing Surgery, etc.
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+  <img src="images/universities/jlu-logo.svg" alt="Jilin University" style="width: 60px; height: 60px; margin-right: 15px; object-fit: contain; flex-shrink: 0;">
+  <div>
+    <strong>Master of Medicine (Nursing)</strong><br>
+    <em>Sep 2020 - Jul 2023</em><br>
+    School of Nursing, Jilin University, Jilin, China<br>
+    • Supervisor: Prof. Jiao Sun
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+  <img src="images/universities/jlu-logo.svg" alt="Jilin University" style="width: 60px; height: 60px; margin-right: 15px; object-fit: contain; flex-shrink: 0;">
+  <div>
+    <strong>Bachelor of Nursing</strong><br>
+    <em>Sep 2016 - Jul 2020</em><br>
+    School of Nursing, Jilin University, Jilin, China
+  </div>
+</div>
 
 # 💬 Academic Conferences
 - *2024* World Young Scientist Summit 2024 & The 4th Postgraduate Nursing Research Forum (Oral presentation)
 - *2024* The 14th Hong Kong International Nursing Forum · 2024 Sino-US Nursing Forum (Poster Presentation)
 - *2023* Chinese Nursing Association Conference on Evidence-Based Practice (Oral presentation)
 
-# 💻 Skills
-- **Languages**: English (CET-6: 480), Chinese (native)
-- **Software and Tools**: NVivo, Python, SPSS, R, etc.
-- **Research Methods**: Qualitative research, systematic review, meta-analysis, evidence-based nursing
 
 # 🏃 Interests
 - Strength training
@@ -115,6 +122,5 @@ I have published several papers in high-impact nursing and medical journals, inc
 
 # 📫 Contact
 - **Email**: 2311110242@bjmu.edu.cn
-- **Phone**: +86 18811636963
 - **Address**: 38 Xueyuan Road, Haidian District, Beijing, 100191, China
 - **ORCID**: [0000-0003-0007-3333](https://orcid.org/0000-0003-0007-3333)

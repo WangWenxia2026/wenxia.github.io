@@ -1,0 +1,7 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 北京大学校徽占位符 -->
+  <circle cx="100" cy="100" r="95" fill="#8C1515" stroke="#600000" stroke-width="2"/>
+  <text x="100" y="90" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">PKU</text>
+  <text x="100" y="120" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">北京大学</text>
+  <text x="100" y="140" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">Peking University</text>
+</svg>
