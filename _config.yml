@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenxia Wang"
-description              : "PhD Candidate in Nursing at Peking University, specializing in multimodal data analysis for elderly care, fall prevention technologies, and intelligent healthcare systems."
+description              : "PhD Candidate in Nursing at Peking University, specializing in affective computering for elderly care, fall prevention technologies, and intelligent healthcare systems."
 repository               : "wenxia.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wenxia Wang"
+  name             : "Wenxia Wang (王文霞)"
   avatar           : "images/profile.png"
   bio              : "PhD Candidate in Nursing<br>Peking University"
   location         : "Beijing, China"

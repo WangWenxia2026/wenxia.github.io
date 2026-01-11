@@ -82,7 +82,7 @@ I have published several papers in high-impact nursing and medical journals, inc
 # 📖 Education
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
-  <img src="images/universities/pku-logo.svg" alt="Peking University" style="width: 60px; height: 60px; margin-right: 15px; object-fit: contain; flex-shrink: 0;">
+  <img src="images/universities/pku-logo.png" alt="Peking University" style="width: 60px; height: 60px; margin-right: 15px; object-fit: contain; flex-shrink: 0;">
   <div>
     <strong>PhD in Nursing</strong><br>
     <em>Sep 2023 - Jul 2027 (Expected)</em><br>
@@ -92,7 +92,7 @@ I have published several papers in high-impact nursing and medical journals, inc
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
-  <img src="images/universities/jlu-logo.svg" alt="Jilin University" style="width: 60px; height: 60px; margin-right: 15px; object-fit: contain; flex-shrink: 0;">
+  <img src="images/universities/jlu-logo.png" alt="Jilin University" style="width: 60px; height: 60px; margin-right: 15px; object-fit: contain; flex-shrink: 0;">
   <div>
     <strong>Master of Medicine (Nursing)</strong><br>
     <em>Sep 2020 - Jul 2023</em><br>
@@ -102,7 +102,7 @@ I have published several papers in high-impact nursing and medical journals, inc
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
-  <img src="images/universities/jlu-logo.svg" alt="Jilin University" style="width: 60px; height: 60px; margin-right: 15px; object-fit: contain; flex-shrink: 0;">
+  <img src="images/universities/jlu-logo.png" alt="Jilin University" style="width: 60px; height: 60px; margin-right: 15px; object-fit: contain; flex-shrink: 0;">
   <div>
     <strong>Bachelor of Nursing</strong><br>
     <em>Sep 2016 - Jul 2020</em><br>
