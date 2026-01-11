@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
-将大学logo转换为圆形PNG格式
+将大学logo转换为带白色背景的圆形PNG格式
 """
 
 from PIL import Image, ImageDraw, ImageOps
 import os
 
-def create_circular_image(input_path, output_path, size=(200, 200)):
+def create_circular_image_with_white_bg(input_path, output_path, size=(200, 200)):
     """
-    将图片转换为圆形PNG格式
+    将图片转换为带白色背景的圆形PNG格式
     
     Args:
         input_path: 输入图片路径
@@ -43,14 +43,19 @@ def create_circular_image(input_path, output_path, size=(200, 200)):
     draw = ImageDraw.Draw(mask)
     draw.ellipse((0, 0) + size, fill=255)
     
-    # 创建输出图片
-    output = Image.new('RGBA', size, (0, 0, 0, 0))
-    output.paste(img, (0, 0))
-    output.putalpha(mask)
+    # 创建白色圆形背景
+    output = Image.new('RGBA', size, (255, 255, 255, 0))  # 透明背景
+    
+    # 绘制白色圆形
+    white_circle = Image.new('RGBA', size, (255, 255, 255, 255))
+    output.paste(white_circle, (0, 0), mask)
+    
+    # 将logo粘贴在白色圆形上
+    output.paste(img, (0, 0), mask)
     
     # 保存为PNG
     output.save(output_path, 'PNG')
-    print(f"✓ 已创建圆形图片: {output_path}")
+    print(f"✓ 已创建带白底的圆形图片: {output_path}")
 
 def main():
     # 当前目录
@@ -62,7 +67,7 @@ def main():
     
     if os.path.exists(jlu_input):
         print(f"处理: {jlu_input}")
-        create_circular_image(jlu_input, jlu_output)
+        create_circular_image_with_white_bg(jlu_input, jlu_output)
     else:
         print(f"❌ 找不到文件: {jlu_input}")
     
@@ -72,12 +77,12 @@ def main():
     
     if os.path.exists(pku_input):
         print(f"处理: {pku_input}")
-        create_circular_image(pku_input, pku_output)
+        create_circular_image_with_white_bg(pku_input, pku_output)
     else:
         print(f"ℹ️  未找到北大logo，跳过")
     
     print("\n✅ 转换完成！")
-    print("生成的文件可以直接使用，已自动裁剪为圆形并带有透明背景。")
+    print("生成的文件带有白色圆形背景，圆形外部透明。")
 
 if __name__ == '__main__':
     main()
