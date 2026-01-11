@@ -63,7 +63,7 @@ Then enable GitHub Pages:
 
 3. **Google Scholar Link** (if you have one): Update line 31 in `_config.yml`
    ```yaml
-   googlescholar: "https://scholar.google.com/citations?user=YOUR_ACTUAL_ID"
+   googlescholar: "https://scholar.google.com/citations?user=GITrcsEAAAAJ"
    ```
 
 ### Optional Updates:

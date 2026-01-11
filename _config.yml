@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Wenxia Wang"
 description              : "PhD Candidate in Nursing at Peking University, specializing in affective computering for elderly care and intelligent healthcare systems."
-repository               : "wenxiawang/wenxiawang.github.io"
+repository               : "wenxia.github.io"
 google_scholar_stats_use_cdn : true
 
 # Theme Settings
@@ -31,7 +31,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=GITrcsEAAAAJ"
   email            : "2311110242@bjmu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

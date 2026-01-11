@@ -58,7 +58,7 @@ git push -u origin main
 
 1. 找到您的 Google Scholar ID：
    - 访问您的 Google Scholar 个人主页
-   - 查看 URL：`https://scholar.google.com/citations?user=XXXXX`
+   - 查看 URL：`https://scholar.google.com/citations?user=GITrcsEAAAAJ`
    - 复制 `XXXXX` 部分（您的 Scholar ID）
 
 2. 将其添加为仓库密钥：
@@ -81,7 +81,7 @@ git push -u origin main
    ```yaml
    repository: "YOUR_USERNAME/YOUR_USERNAME.github.io"
    author:
-     googlescholar: "https://scholar.google.com/citations?user=YOUR_ACTUAL_SCHOLAR_ID"
+     googlescholar: "https://scholar.google.com/citations?user=GITrcsEAAAAJ"
    ```
 
 2. **头像图片**: 用您的实际照片替换 `images/profile.png`

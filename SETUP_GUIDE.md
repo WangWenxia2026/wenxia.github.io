@@ -47,7 +47,7 @@ author:
 To enable automatic citation updates:
 
 1. Go to your Google Scholar profile
-2. Copy your Scholar ID from the URL (e.g., `https://scholar.google.com/citations?user=YOUR_ID`)
+2. Copy your Scholar ID from the URL (e.g., `https://scholar.google.com/citations?user=GITrcsEAAAAJ`)
 3. Update in `_config.yml`:
 
 ```yaml

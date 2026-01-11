@@ -58,7 +58,7 @@ To enable automatic Google Scholar citation updates:
 
 1. Find your Google Scholar ID:
    - Go to your Google Scholar profile
-   - Look at the URL: `https://scholar.google.com/citations?user=XXXXX`
+   - Look at the URL: `https://scholar.google.com/citations?user=GITrcsEAAAAJ`
    - Copy the `XXXXX` part (your Scholar ID)
 
 2. Add it as a repository secret:
@@ -81,7 +81,7 @@ Before deploying, make sure you've updated:
    ```yaml
    repository: "YOUR_USERNAME/YOUR_USERNAME.github.io"
    author:
-     googlescholar: "https://scholar.google.com/citations?user=YOUR_ACTUAL_SCHOLAR_ID"
+     googlescholar: "https://scholar.google.com/citations?user=GITrcsEAAAAJ"
    ```
 
 2. **Profile Image**: Replace `images/profile.png` with your actual photo

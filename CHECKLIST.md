@@ -30,7 +30,7 @@ Use this checklist to ensure everything is ready before deploying your academic 
   - File: `_config.yml` (line 31)
   - Current: Placeholder URL
   - Action: Update with your actual Google Scholar profile URL
-  - Format: `https://scholar.google.com/citations?user=YOUR_ID`
+  - Format: `https://scholar.google.com/citations?user=GITrcsEAAAAJ`
 
 - [ ] **Add Social Media Links** (if desired)
   - GitHub username (line 40 in `_config.yml`)
